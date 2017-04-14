@@ -1,4 +1,4 @@
-# CO-Pilot
+# Co-Pilot
 ### A toolkit for communicating with your car
 
 ## Getting Started
