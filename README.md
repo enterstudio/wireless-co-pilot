@@ -19,14 +19,14 @@
 Before we get started, here's a quick overview of what you'll need to build the Co-Pilot:
 
 **Electronic Components**
-
-* 1x [MultiTech Co-Pilot Developer Kit](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70324)
-    * Comes with Twilio SIM card, MultiTech developer board, Multitech GSM module, and GPS Antenna.
+* 1x [Twilio Programma Wireless SIM](https://www.twilio.com/console/wireless/sims/orders/new)
+    * Looking for access to Programmable Wireless? Use the Access Code **blueprints**
+* 1x [MultiTech Breakout Board](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=50640)
+* 1x [MultiTech Dragonfly Modem](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=61471)
 * 1x [Freematics OBD-II UART Adapter V2](http://freematics.com/store/index.php?route=product/product&product_id=83)
 * 1x [GPS Antenna](http://www.digikey.com/product-search/en?keywords=ECHO5%2F0.1M%2FUFL%2FS%2FS%2F15-ND)
 * 1x [(Optional) Status LED](https://www.sparkfun.com/products/9650)
-* 3x [Molex C-Grid Headers - 3 Position](http://www.digikey.com/product-search/en?keywords=WM8001-ND)
-* 2x [Molex C-Grid Headers - 2 Position](http://www.digikey.com/product-detail/en/molex-llc/0901230102/WM8000-ND/760716)
+* 3x [(Optional with LED)Molex C-Grid Headers - 3 Position](http://www.digikey.com/product-search/en?keywords=WM8001-ND)
 * 4x [Molex Contact Crimp Pin - 24-30 AWG Tin](http://www.digikey.com/products/en?keywords=MOLEX%20%2016-02-0108)
 * 1x [RF Antenna](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70343)
 * 2x [U.FL Extension Cable](https://www.amazon.com/s/ref=bnav_search_go?url=search-alias%3Daps&field-keywords=B006IVUJPQ)
