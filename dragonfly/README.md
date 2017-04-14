@@ -1,4 +1,4 @@
-# Blueprint #3 - Connected Car - In Car System
+# CO-Pilot
 ### A toolkit for communicating with your car
 
 ## Getting Started
@@ -21,9 +21,9 @@
 4. Import the source files into a new project using the ***Import*** button at the left of the project page.
   	1. You will also need to import the mbed library to your project.
 5. Make sure you select the MTS Fragonfly as the target platform in the upper right corner of the mbed compiler window.
-6. Update DEVICE_ID to the one supplied in the [custom server](https://github.com/Deeplocal/blueprints/tree/master/co-pilot/node).
+6. Update DEVICE_ID to the one supplied in the [custom server](../node).
 	1. Device ID is the ID of your Vehicle in the SQLite database. 
-7. Update the TOKEN to the one supplied in the [custom server](https://github.com/Deeplocal/blueprints/tree/master/co-pilot/node).
+7. Update the TOKEN to the one supplied in the [custom server](../node).
 	1. The TOKEN is autogenereated ***after*** you add your Co-Pilot device to the server software.
 	2. This is not your Twilio Authentication Token. 
 8. Update the SERVER_URL to be the appropriate URL of your server.

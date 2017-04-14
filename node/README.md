@@ -1,4 +1,4 @@
-# Blueprint #2 - Co-Pilot - Backend App
+# CO-Pilot
 ### Connected Fleet Monitoring
 
 
@@ -63,7 +63,7 @@ Now that your server is running you'll need to make sure that the Co-Pilot can c
           your url is: http://xxxx.localtunnel.me
 
 **Add server info to your Dragonfly code** 
-After creating the vehicle on the server you will see a new entry on the "vehicles" page. You will need to add the id and token to your [dragonfly code](https://github.com/Deeplocal/blueprints/blob/master/co-pilot/dragonfly/main.cpp). The id and token can be entered on lines 11 and 12 respectively.
+After creating the vehicle on the server you will see a new entry on the "vehicles" page. You will need to add the id and token to your [dragonfly code](../dragonfly/main.cpp). The id and token can be entered on lines 11 and 12 respectively.
 
     #define DEVICE_ID 0
     #define TOKEN "xxxx"

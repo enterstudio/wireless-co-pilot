@@ -40,7 +40,7 @@ Before we get started, here's a quick overview of what you'll need to build the 
 
 **(Optional) 3D-Printed Parts** In addition to the electronic components and mechanical hardware, the body of the Co-Pilot is fabricated from 3D-printed parts.
 
-You can download the [3D CAD Model here](https://github.com/Deeplocal/blueprints/blob/master/connected-cars/models/16074-330%20bplate%20rev.STL)
+You can download the [3D CAD Model here](models/01%20Body.STL)
 
 Using this 3D CAD Model, you have a few options for actually building the body:
 
@@ -48,12 +48,12 @@ Using this 3D CAD Model, you have a few options for actually building the body:
 * Alternatively, if you don't have access to 3D printer or want to ensure quality, you could use a third-party 3D printing service. We recommend [Sculpteo](http://sculpteo.com) or [Voodoo Manufacturing](https://voodoomfg.com/).
 
 **(Optional) Laser-Cut Part** The Co-Pilot has one clear acrylic cover panel that attaches to the outside of the 3D-printed case. You will need to build this as well.
-You can download the [panel model here](https://github.com/Deeplocal/blueprints/blob/master/connected-cars/models/16074-331%20fplate%20rev.svg)
+You can download the [panel model here](models/coPilotCoverPlateP.dxf)
 As with the body, you can make the panels yourself based on the designs or choose to use a third-party service. We again recommend [Sculpteo](http://sculpteo.com). 
 
 _Whether you are cutting and printing yourself or using a service, **double check the units and dimensions of all parts after uploading**._
 
-**Server Software** You'll need a server to collect data. You can create your own or run our simple NodeJS backend [Set up instructions here](https://github.com/Deeplocal/blueprints/tree/master/co-pilot/node/README.md).
+**Server Software** You'll need a server to collect data. You can create your own or run our simple NodeJS backend [Set up instructions here](node/README.md).
 
 ### (Optional) Finishing
 **(Optional) 3D-Printed Parts** Surface finishes and residues left on the parts will vary depending on the type of printer or service used to produce them. Third-party producers should produce finishes to specification and clean parts before they ship, but prints done yourself will require special attention.
@@ -134,7 +134,7 @@ _Whether you are cutting and printing yourself or using a service, **double chec
 
 ![image alt text](images/image_37.jpg)
 
-**Step 4: Prep [3D-printed body](https://github.com/Deeplocal/blueprints/blob/master/connected-cars/models/01%20Body.STL) for assembly.**
+**Step 4: Prep [3D-printed body](models/01%20Body.STL) for assembly.**
 * First, we will need to **drive the three brass threaded inserts into place**. Do this by **orienting the knurled side of the insert down**, and then **lightly tap them into place**.  To get them properly seated, using a punch and light hammer are recommended.
 
 ![image alt text](images/image_10.jpg)
@@ -174,7 +174,7 @@ _Whether you are cutting and printing yourself or using a service, **double chec
 
 ![image alt text](images/image_18.jpg)
 
-**Step 8: Place [cover](https://github.com/Deeplocal/blueprints/blob/master/connected-cars/models/02%20Front%20Cover.svg) on enclosure.**
+**Step 8: Place [cover](models/coPilotCoverPlateP.dxf) on enclosure.**
 * **Place the acrylic faceplate over the device**, and then **tighten all three thumb screws**.
 
 ![image alt text](images/image_19.jpg)
