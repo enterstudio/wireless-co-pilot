@@ -20,11 +20,11 @@ Before we get started, here's a quick overview of what you'll need to build the 
 
 **Electronic Components**
 
-* 1x [Multi-Tech Dragonfly](http://www.digikey.com/product-search/en?keywords=591-1287-ND)
-* 1x [Multi-Tech Dragonfly Development Kit](http://www.digikey.com/product-search/en?keywords=591-1262-ND)
+* 1x [MultiTech Co-Pilot Developer Kit](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70324)
+    * Comes with Twilio SIM card, MultiTech developer board, Multitech GSM module, and GPS Antenna.
 * 1x [Freematics OBD-II UART Adapter V2](http://freematics.com/store/index.php?route=product/product&product_id=83)
 * 1x [GPS Antenna](http://www.digikey.com/product-search/en?keywords=ECHO5%2F0.1M%2FUFL%2FS%2FS%2F15-ND)
-* 1x [Status LED](https://www.sparkfun.com/products/9650)
+* 1x [(Optional) Status LED](https://www.sparkfun.com/products/9650)
 * 3x [Molex C-Grid Headers - 3 Position](http://www.digikey.com/product-search/en?keywords=WM8001-ND)
 * 2x [Molex C-Grid Headers - 2 Position](http://www.digikey.com/product-detail/en/molex-llc/0901230102/WM8000-ND/760716)
 * 4x [Molex Contact Crimp Pin - 24-30 AWG Tin](http://www.digikey.com/products/en?keywords=MOLEX%20%2016-02-0108)
