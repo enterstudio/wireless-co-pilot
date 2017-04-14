@@ -24,10 +24,10 @@ Before we get started, here's a quick overview of what you'll need to build the 
 * 1x [MultiTech Breakout Board](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=50640)
 * 1x [MultiTech Dragonfly Modem](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=61471)
 * 1x [Freematics OBD-II UART Adapter V2](http://freematics.com/store/index.php?route=product/product&product_id=83)
-* 1x [GPS Antenna](http://www.digikey.com/product-search/en?keywords=ECHO5%2F0.1M%2FUFL%2FS%2FS%2F15-ND)
 * 1x [(Optional) Status LED](https://www.sparkfun.com/products/9650)
-* 3x [(Optional with LED)Molex C-Grid Headers - 3 Position](http://www.digikey.com/product-search/en?keywords=WM8001-ND)
+* 3x [(Optional with LED) Molex C-Grid Headers - 3 Position](http://www.digikey.com/product-search/en?keywords=WM8001-ND)
 * 4x [Molex Contact Crimp Pin - 24-30 AWG Tin](http://www.digikey.com/products/en?keywords=MOLEX%20%2016-02-0108)
+* 1x [GPS Antenna](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=64861)
 * 1x [RF Antenna](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70343)
 * 2x [U.FL Extension Cable](https://www.amazon.com/s/ref=bnav_search_go?url=search-alias%3Daps&field-keywords=B006IVUJPQ)
 
