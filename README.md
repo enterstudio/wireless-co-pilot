@@ -28,7 +28,7 @@ Before we get started, here's a quick overview of what you'll need to build the 
 * 3x [Molex C-Grid Headers - 3 Position](http://www.digikey.com/product-search/en?keywords=WM8001-ND)
 * 2x [Molex C-Grid Headers - 2 Position](http://www.digikey.com/product-detail/en/molex-llc/0901230102/WM8000-ND/760716)
 * 4x [Molex Contact Crimp Pin - 24-30 AWG Tin](http://www.digikey.com/products/en?keywords=MOLEX%20%2016-02-0108)
-* 1x [RF Antenna](http://www.digikey.com/product-search/en?keywords=939-1056-ND)
+* 1x [RF Antenna](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70343)
 * 2x [U.FL Extension Cable](https://www.amazon.com/s/ref=bnav_search_go?url=search-alias%3Daps&field-keywords=B006IVUJPQ)
 
 **Other Hardware**
