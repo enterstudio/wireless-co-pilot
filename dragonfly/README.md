@@ -20,18 +20,16 @@
 3. Open the 'Compiler' window from the menu bar at the top of the user homescreen.
 4. Import the source files into a new project using the ***Import*** button at the left of the project page.
   	1. You will also need to import the mbed library to your project.
-5. Make sure you select the MTS Fragonfly as the target platform in the upper right corner of the mbed compiler window.
+	2. The files to import are main.cpp, mbed_config.h, mbed.bld, and mtsas.lib
+5. Make sure you select the MTS Dragonfly as the target platform in the upper right corner of the mbed compiler window.
 6. Update DEVICE_ID to the one supplied in the [custom server](../node).
 	1. Device ID is the ID of your Vehicle in the SQLite database. 
 7. Update the TOKEN to the one supplied in the [custom server](../node).
 	1. The TOKEN is autogenereated ***after*** you add your Co-Pilot device to the server software.
 	2. This is not your Twilio Authentication Token. 
 8. Update the SERVER_URL to be the appropriate URL of your server.
-9. Click Compile. The initial attempt will fail because the mtsas library is missing. Click the `fix it` button next to the error to prompt the mbed compiler to automatically locate and import the correct library.
-10. Click the `fix it` button if it appears again.
-11. Compile your application.
-12. Save the `.bin` file to the MultiTech USB drive associated with the Dragonfly device, or copy from you downloads folder into this drive.
-13. Once the red/green lights stop flashinig for more than a few seconds press the reset button on the carrier board to start the application.
+9. Click Compile.
+10. Once the red/green lights stop flashinig for more than a few seconds press the reset button on the carrier board to start the application.
 
 ****Note:**** On Windows download an application like [PuTTY](http://www.putty.org/) to view the Dragonfly device output.
 On OSX you can type `screen tty.usbmodem1423 112500` to see output. On OSX type `ls /dev/ | grep tty.usb` to determine the last 4 digits of the usbmodem.
