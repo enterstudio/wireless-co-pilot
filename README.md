@@ -122,15 +122,12 @@ _Whether you are cutting and printing yourself or using a service, **double chec
 
 ![image alt text](images/image_29.jpg)
 
-![image alt text](images/image_30.jpg)
-
-* Hit “Compile” which will generate a file for download.  The initial attempt will fail because the mtsas library is missing—push the “Fix It!” button next to the error to prompt the mbed compiler to automatically locate and import the correct library. 
-
+* Click “Compile.
 ![image alt text](images/image_31.jpg)
 
 ![image alt text](images/image_32.jpg)
 
-* The next time you hit “Compile”  it should succeed and will generate a file for download. Either save this to the new USB drive associated with the dragonfly device or copy from your downloads folder into this drive.
+* The build should succeed and will generate a file for download. Either save this to the new USB drive associated with the dragonfly device or copy from your downloads folder into this drive.
 
 ![image alt text](images/image_37.jpg)
 
